@@ -42,7 +42,7 @@ I now would like you to answer the following - all in their own separate R code 
 
 ```{r include=FALSE}
 # using read.csv for reading this CSV file
-nyc <- read.csv("nycflights.csv")
+nyc <- read.csv("~/Downloads/nycflights.csv")
 
 # now we will explore this data
 str(nyc)
